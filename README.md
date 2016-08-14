@@ -1,6 +1,6 @@
 # BottomBar
 
-![Release](https://img.shields.io/github/release/hos3ein/BottomBar.svg?maxAge=1592000)
+![Release](https://img.shields.io/github/release/hos3ein/BottomBar.svg?maxAge=1593000)
 
 ## Forked from [https://github.com/roughike/BottomBar](https://github.com/roughike/BottomBar)
 
