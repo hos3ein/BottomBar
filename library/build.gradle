@@ -1,0 +1,22 @@
+apply plugin: 'com.android.library'
+apply plugin: 'com.github.dcendents.android-maven' // ADD THIS
+
+group='com.github.jitpack'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion "24.0.0"
+
+    defaultConfig {
+        minSdkVersion 11
+        targetSdkVersion 24
+        versionCode 1
+        versionName "1.0"
+        consumerProguardFiles 'proguard-rules.pro'
+    }
+}
+
+dependencies {
+    compile 'com.android.support:appcompat-v7:24.0.0'
+    compile 'com.android.support:design:24.0.0'
+}
